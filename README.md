@@ -22,12 +22,8 @@
 
 <div align="center" style="text-align:center">
   
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@woo0_hooo)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
-  
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ckdals29672&postId=12)](https://ckdals29672.tistory.com/12)
-
-  
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ckdals29672&postId=20)](https://ckdals29672.tistory.com/20)
 </div>
   
 <br>
