@@ -37,7 +37,7 @@
   
 <br>
 <br>
-<h3 align="center"> 🧸 Me 🧸 </h3>
+<h3 align="center"> 🐋 Me 🐋 </h3>
 <p align="center">
   <a href="http://ckdals29672.tistory.com"><img src="https://img.shields.io/badge/Tistory-EE4C2C?style=flat-square&logo=Tistory&logoColor=white&link=http://ckdals29672.tistory.com"/></a>&nbsp
   <a href="https://boatneck-romano-504.notion.site/Deep-learning-Developer-a42664ed1e9b42359bddbbe31fedb645"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://boatneck-romano-504.notion.site/Deep-learning-Developer-a42664ed1e9b42359bddbbe31fedb645"/></a>&nbsp
