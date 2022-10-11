@@ -40,8 +40,7 @@
 <h3 align="center"> 🧸 Me 🧸 </h3>
 <p align="center">
   <a href="http://ckdals29672.tistory.com"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flat-square&logo=Tistory&logoColor=white&link=http://ckdals29672.tistory.com"/></a>&nbsp
-  <a href="https://boatneck-romano-504.notion.site/Deep-learning-Developer-a42664ed1e9b42359bddbbe31fedb645"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notiony&logoColor=white&link=https://boatneck-romano-504.notion.site/Deep-learning-Developer-a42664ed1e9b42359bddbbe31fedb645"/></a>&nbsp
-  <a href="http://ckdals29672.tistory.com"><img src="https://img.shields.io/badge/Notion-11B48A?style=flat-square&logo=Notion&logoColor=white&link=http://ckdals29672.tistory.com"/></a>&nbsp
+  <a href="http://ckdals29672.tistory.com"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=http://ckdals29672.tistory.com"/></a>&nbsp
   <a href="https://www.instagram.com/woo0_hooo/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="mailto:viliketh1s98@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>
 </p>
