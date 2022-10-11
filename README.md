@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Dlib-4008000?style=for-the-badge&logo=Dlib&logoColor=black">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
   
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flaks&logoColor=white">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white">
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=Celery&logoColor=white">
   
