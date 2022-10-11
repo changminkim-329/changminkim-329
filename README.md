@@ -21,7 +21,7 @@
 <h3 align="center">🪄 Blog 🪄</h3>
 
 <div align="center" style="text-align:center">
- [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ckdals29672&postId=12)](https://ckdals29672.tistory.com/12)
+ [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ckdals29672&postId=12)](https://github.com/loosie/github-readme-tistory-card)
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
   
 </div>
