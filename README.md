@@ -23,7 +23,6 @@
 <div align="center">
   
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ckdals29672&postId=12)](https://ckdals29672.tistory.com/12)
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ckdals29672&postId=20)](https://ckdals29672.tistory.com/20)
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ckdals29672&postId=26)](https://ckdals29672.tistory.com/26)
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ckdals29672&postId=32)](https://ckdals29672.tistory.com/32)
 </div>
