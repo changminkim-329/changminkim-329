@@ -25,6 +25,9 @@
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo&tag=기술면접대비)](https://velog.io/@woo0_hooo)
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
   
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ckdals29672&postId=12)](https://github.com/loosie/github-readme-tistory-card)
+
+  
 </div>
   
 <br>
