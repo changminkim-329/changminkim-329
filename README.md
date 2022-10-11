@@ -22,7 +22,7 @@
 
 <div align="center" style="text-align:center">
   
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name=ckdals29672&postId=12&theme=default)](https://github.com/loosie/github-readme-tistory-card)
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api/badge?name={ckdals29672}&postId={12}&theme={default})](https://github.com/loosie/github-readme-tistory-card)
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
   
 </div>
