@@ -20,7 +20,7 @@
 
 <h3 align="center">🪄 Blog 🪄</h3>
 
-<div align="center" style="text-align:center">
+<div align="center">
   
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ckdals29672&postId=12)](https://ckdals29672.tistory.com/12)
   [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ckdals29672&postId=20)](https://ckdals29672.tistory.com/20)
