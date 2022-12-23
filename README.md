@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ChangminKim&fontSize=70&animation=twinkling)
 
 <hr>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🛠 Data Tech Stack 🛠</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -11,12 +11,15 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white">
   <img src="https://img.shields.io/badge/Dlib-4008000?style=for-the-badge&logo=Dlib&logoColor=black">
+</p>
+
+<h3 align="center">🛠 Backend Tech Stack 🛠</h3>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white">
-  
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white">
   <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=Celery&logoColor=white">
-  
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
