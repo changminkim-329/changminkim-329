@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ChangminKim&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=648FCE&height=200&section=header&text=Changmin%20Kim&fontSize=90&fontColor=ffffff)
 
 <hr>
 <h3 align="center">🛠 Data Tech Stack 🛠</h3>
