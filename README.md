@@ -35,13 +35,13 @@
   
 <br>
 <br>
-<h3 align="center"> 🐋 Me 🐋 </h3>
+<!-- <h3 align="center"> 🐋 Me 🐋 </h3>
 <p align="center">
   <a href="http://ckdals29672.tistory.com"><img src="https://img.shields.io/badge/Tistory-EE4C2C?style=flat-square&logo=Tistory&logoColor=white&link=http://ckdals29672.tistory.com"/></a>&nbsp
   <a href="https://ckdals.notion.site/AI-b7fc69efbbe74137a8ca35a371fe9284?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://boatneck-romano-504.notion.site/Deep-learning-Developer-a42664ed1e9b42359bddbbe31fedb645"/></a>&nbsp
   <a href="mailto:ckd29672@naver.com"><img src="https://img.shields.io/badge/NAVER-03C75A?style=flat-square&logo=NAVER&logoColor=white&link=ckd29672@naver.com"/></a>
 
-</p>
+</p> -->
 <br>
 
 
