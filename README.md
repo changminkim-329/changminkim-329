@@ -23,14 +23,24 @@
 
 <h3 align="center">🌳 Blog 🌳</h3>
 
-<div align="center">
+<div align="center" style="display: flex;">
+
+  ```
+  print("Tistory ") 
+  ```
+  output: <a href="https://ckdals29672.tistory.com/31">헤이</a>
+  ```
+  print("Tistory ") 
+  ```
+  output: <a href="https://ckdals29672.tistory.com/12">헤이</a>
+  ```
+  print("Tistory ") 
+  ```
+  output: <a href="https://ckdals29672.tistory.com/32">헤이</a>
   
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ckdals29672&postId=12)](https://ckdals29672.tistory.com/12)
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ckdals29672&postId=31)](https://ckdals29672.tistory.com/31)
-  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=ckdals29672&postId=32)](https://ckdals29672.tistory.com/32)
+
+  
 </div>
-  
-  
 <br>
 <br>
 <!-- <h3 align="center"> 🐋 Me 🐋 </h3>
