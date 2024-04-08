@@ -23,7 +23,7 @@
 
 <h3 align="center">🌳 Blog 🌳</h3>
 
-<div style="display: flex;">
+<div width="500px">
 
   ```
   print("개인 서버 채굴 해킹 사례 및 분석") 
