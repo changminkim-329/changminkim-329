@@ -42,9 +42,3 @@
 </p> -->
 <br>
 
-### Github 잔디( private으로 프로젝트 하는 경우가 많아 따로 캡쳐 했습니다. )
-<img width="1259" alt="image" src="https://github.com/changminkim-329/changminkim-329/assets/59727077/fbb17673-fc04-41ad-9ceb-9ce28d2d9241">
-
-
-
-
