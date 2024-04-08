@@ -23,92 +23,29 @@
 
 <h3 align="center">🌳 Blog 🌳</h3>
 
-<div align="center" style="display: flex;">
-  <span style="display: flex;">
-  <div>
-  
+<div style="display: flex;">
+
   ```
   print("개인 서버 채굴 해킹 사례 및 분석") 
   ```
 
-  </div>
+  output: <a href="https://ckdals29672.tistory.com/31">개인 서버 채굴 해킹 사례 및 분석</a>
+  <hr>
 
-  <div>output: <a href="https://ckdals29672.tistory.com/31">개인 서버 채굴 해킹 사례 및 분석</a></div>
-  </span>
 
   ```
-  print("Tistory ") 
+  print("개인용 서버 만들기 5편") 
   ```
-  output: <a href="https://ckdals29672.tistory.com/12">헤이</a>
+  output: <a href="https://ckdals29672.tistory.com/12">개인용 서버 만들기 5편</a>
+  <hr>
+  
   ```
-  print("Tistory ") 
+  print("GAN개념과 DCGAN 구현") 
   ```
-  output: <a href="https://ckdals29672.tistory.com/32">헤이</a>
+  output: <a href="https://ckdals29672.tistory.com/32">GAN개념과 DCGAN 구현</a>
+  <hr>
   
 </div>
-
-<table width="950px" align="center">
-    <thead>
-    </thead>
-    <tbody>
-    <tr>
-        <th>사진</th>
-        <td width="100" align="center">
-            <a href="https://ckdals29672.tistory.com/31">
-                <img src="https://avatars.githubusercontent.com/u/87515295?v=4" width="60" height="60">
-            </a>
-        </td>
-        <td width="100" align="center">
-            <a href="https://ckdals29672.tistory.com/12">
-                <img src="https://avatars.githubusercontent.com/u/68225058?v=4" width="60" height="60">
-            </a>
-        </td>
-        <td width="100" align="center">
-            <a href="https://ckdals29672.tistory.com/32">
-                <img src="https://animalspet.co.kr/web/product/medium/202303/87006965eb2422d857fa7b69f471a7cd.jpg" width="60" height="60">
-            </a>
-        </td>
-    </tr>
-    <tr>
-        <th>이름</th>
-        <td width="100" align="center">오윤진</td>
-        <td width="100" align="center">김규리</td>
-        <td width="100" align="center">유지오</td>
-    </tr>
-    <tr>
-        <th>역할</th>
-        <td width="150" align="center">
-            Team Leader<br>
-            AI, MLOps<br>
-        </td>
-        <td width="150" align="center">
-            Frontend<br>
-        </td>
-        <td width="150" align="center">
-            UI/UX Design<br>
-        </td>
-    </tr>
-    <tr>
-        <th>GitHub</th>
-        <td width="100" align="center">
-            <a href="https://github.com/dhdbsrlw">
-                <img src="http://img.shields.io/badge/dhdbsrlw-green?style=social&logo=github"/>
-            </a>
-         </td>
-        <td width="100" align="center">
-            <a href="https://github.com/Grit03">
-                <img src="http://img.shields.io/badge/Grit03-green?style=social&logo=github"/>
-            </a>
-        </td>
-        <td width="100" align="center">
-            <a href="https://github.com/유지오">
-                <img src="http://img.shields.io/badge/유지오-green?style=social&logo=github"/>
-            </a>
-        </td>
-    </tr>
-    </tbody>
-</table>
-
 
 
 <br>
