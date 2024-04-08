@@ -26,10 +26,10 @@
 <div width="500px">
 
   ```
-  print("Tistory 창민이 블로그") 
+  print("🌳 Tistory 창민이 블로그") 
   ```
 
-  output: <a href="https://ckdals29672.tistory.com">Tistory 창민이 블로그</a>
+  output: <a href="https://ckdals29672.tistory.com">🌳 Tistory 창민이 블로그</a>
   <hr>
   
 </div>
