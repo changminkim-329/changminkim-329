@@ -26,23 +26,10 @@
 <div width="500px">
 
   ```
-  print("개인 서버 채굴 해킹 사례 및 분석") 
+  print("Tistory 창민이 블로그") 
   ```
 
-  output: <a href="https://ckdals29672.tistory.com/31">개인 서버 채굴 해킹 사례 및 분석</a>
-  <hr>
-
-
-  ```
-  print("개인용 서버 만들기 5편") 
-  ```
-  output: <a href="https://ckdals29672.tistory.com/12">개인용 서버 만들기 5편</a>
-  <hr>
-  
-  ```
-  print("GAN개념과 DCGAN 구현") 
-  ```
-  output: <a href="https://ckdals29672.tistory.com/32">GAN개념과 DCGAN 구현</a>
+  output: <a href="https://ckdals29672.tistory.com">Tistory 창민이 블로그</a>
   <hr>
   
 </div>
