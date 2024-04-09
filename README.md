@@ -30,7 +30,14 @@
   print("🌳 Tistory 창민이 블로그") 
   ```
 
-  output: <a href="https://ckdals29672.tistory.com">🌳 Tistory 창민이 블로그</a>
+  [43] Output: <a href="https://ckdals29672.tistory.com">🌳 Tistory 창민이 블로그</a>
+  <hr>
+
+  ```
+  print("🎵 Notion") 
+  ```
+
+  [51] Output: <a href="https://www.notion.so/ckdals/b7fc69efbbe74137a8ca35a371fe9284">🎵 Notion</a>
   <hr>
   
 </div>
