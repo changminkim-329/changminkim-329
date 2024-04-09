@@ -22,7 +22,7 @@
 
 <br>
 
-<h3 >🌳 Blog 🌳</h3>
+<h3 align="center">🌳 Blog</h3>
 
 ```
 print("🌳 Tistory 창민이 블로그") 
@@ -30,12 +30,14 @@ print("🌳 Tistory 창민이 블로그")
 
 [43] Output: <a href="https://ckdals29672.tistory.com">🌳 Tistory 창민이 블로그</a>
 <hr>
+<br>
 
-<h3 >🎵 Notion</h3>
+<h3 align="center">🎵 Notion</h3>
 
 ```
 print("🎵 Notion") 
 ```
+
 
 [51] Output: <a href="https://www.notion.so/ckdals/b7fc69efbbe74137a8ca35a371fe9284">🎵 Notion</a>
 <hr>
