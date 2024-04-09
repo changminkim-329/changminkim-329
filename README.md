@@ -22,25 +22,23 @@
 
 <br>
 
-<h3 align="center">🌳 Blog 🌳</h3>
+<h3 >🌳 Blog 🌳</h3>
 
-<div width="500px">
+```
+print("🌳 Tistory 창민이 블로그") 
+```
 
-  ```
-  print("🌳 Tistory 창민이 블로그") 
-  ```
+[43] Output: <a href="https://ckdals29672.tistory.com">🌳 Tistory 창민이 블로그</a>
+<hr>
 
-  [43] Output: <a href="https://ckdals29672.tistory.com">🌳 Tistory 창민이 블로그</a>
-  <hr>
+<h3 >🎵 Notion</h3>
 
-  ```
-  print("🎵 Notion") 
-  ```
+```
+print("🎵 Notion") 
+```
 
-  [51] Output: <a href="https://www.notion.so/ckdals/b7fc69efbbe74137a8ca35a371fe9284">🎵 Notion</a>
-  <hr>
-  
-</div>
+[51] Output: <a href="https://www.notion.so/ckdals/b7fc69efbbe74137a8ca35a371fe9284">🎵 Notion</a>
+<hr>
 
 
 <br>
