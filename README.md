@@ -33,12 +33,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" height="50" />
 </p>
 
+<!--
 <h5 align="left">Data</h5>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" height="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" height="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="50" />
-          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" height="50" />   
 </p>
+-->
 
 <img src="https://camo.githubusercontent.com/37fe325c5992c6c25b396cafa52bb75cf9ad26d07443f384defaf7a659d8484a/68747470733a2f2f686974732e736565796f756661726d2e636f6d2f6170692f636f756e742f696e63722f62616467652e7376673f75726c3d68747470732533412532462532466769746875622e636f6d253246626a6f3633303026636f756e745f62673d253233303837463930267469746c655f62673d2532333535353535352669636f6e3d2669636f6e5f636f6c6f723d253233453745374537267469746c653d76697369746f727326656467655f666c61743d66616c7365" alt="Hits" data-canonical-src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbjo6300&amp;count_bg=%23087F90&amp;title_bg=%23555555&amp;icon=&amp;icon_color=%23E7E7E7&amp;title=visitors&amp;edge_flat=false" style="max-width: 100%;">
